@@ -27,8 +27,3 @@ elif(variable == 2):
 else:
     print("La opción ingresada no es correcta")
     
-#distancia = float(input("Ingrese el valor de a: "))
-#velocidad = float(input("Ingrese el valor de b: "))
-#tiempo = float(input("Ingrese el valor de c: "))
-
-#Si el calculo es para velocidad
